@@ -6,14 +6,14 @@
 
 bl_info = {
     "name": "Lily Surface Scraper",
-    "author": "Élie Michel <elie.michel@exppad.com>",
-    "version": (1, 9, 0),
+    "author": "Élie Michel <elie.michel@exppad.com> and Tiefseetauchner <tiefseetauchner@lukechriswalker.at>",
+    "version": (1, 9, 1),
     "blender": (4, 1, 0),
     "location": "Properties > Material",
     "description": "Import material from a single URL",
     "warning": "",
     "wiki_url": "",
-    "tracker_url": "https://github.com/eliemichel/LilySurfaceScraper/issues",
+    "tracker_url": "https://github.com/Tiefseetauchner/LilySurfaceScraper/issues",
     "support": "COMMUNITY",
     "category": "Import",
 }

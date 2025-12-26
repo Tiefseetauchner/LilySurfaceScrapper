@@ -98,7 +98,10 @@ class CyclesMaterialData(MaterialData):
         if map_name == "opacity":
             self.material.blend_method = 'BLEND'
         if map_name == "height":
-            self.material.cycles.displacement_method = 'BOTH'
+            if bpy.app.version < (5, 0, 0):
+                self.material.cycles.displacement_method = 'BOTH'
+            else:
+                self.material.displacement_method = 'BOTH'
         
         # Save the texture in either the front or back texture dict
         if map_name.endswith("_back"):
