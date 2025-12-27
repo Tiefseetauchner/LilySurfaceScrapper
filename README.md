@@ -1,6 +1,8 @@
-*If this helps you save time or money for your job, please consider supporting the work involved in here ;)* [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DNEEF8GDX2EV6&currency_code=EUR&source=url)
-
 ![Cover](doc/cover.jpg)
+
+**Pre-News News!** (2025-12-27) Hey! This is a fork of eliemichel's LilySurfaceScraper addon. It's medium well maintained, but should work somewhat well for new versions of blender as they get released.
+I don't have much time to work on this, so I would appreciate any help!\
+Rebrand incoming
 
 **News** (2024-04-07) From version 1.9.0 on, versions of Blender strictly older than 4.1 are no longer supported. Please use version v1.8.1 of this add-on for versions of Blender from 2.83 to 4.0.
 
